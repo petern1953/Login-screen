@@ -1,0 +1,9 @@
+body {
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 12px;
+    background-color:  #567;
+    /* background-color:  #eee; */
+    color: #222;
+    display: flex;
+}
